@@ -32,8 +32,9 @@ Analytics Layer: Employs Power BI to create productivity and burnout dashboards 
 Security Layer: Implements Row Level Security (RLS) to ensure user-specific data views.
 
 
-4. Dataset Overview
+**4. Dataset Overview**
 This project uses two different datasets.
+
 A. Historical Dataset (Python Generated)
 	Purpose of This Dataset
        Since live data was limited, the historical dataset was created to:
@@ -157,6 +158,7 @@ The purpose of this page is to analyze the collective performance of all users i
 2. Solution Provided by This Page
 Unlike Page 1 (individual view), this page provides a management-level overview of overall productivity trends.
 This page provides a consolidated analytical view including:
+
  Overall KPIs
 •	Average Client Completion %
 •	Overall Success Rate %
@@ -173,6 +175,7 @@ Comparative Analysis
 •	Skip reason wise total skipped habits
 •	Habit vs Skip Reason Matrix
 •	Failure vs Success distribution
+
 **🔵 Page 4 – Productivity Analysis Dashboard**
 Idea Behind This Page
 This page is designed to measure overall productivity performance and behavioral consistency of users.
